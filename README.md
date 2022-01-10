@@ -26,7 +26,7 @@ The code of Horus is revised from the corresponding [code of Chamani](https://gi
 
 The code of IM-DSSE<sub>I+II</sub> is revised from the corresponding [code of Hoang](https://github.com/thanghoang/IM-DSSE). To compile and run this code, one needs to install [LibTomCrypt](https://www.libtom.net/LibTomCrypt/) and [libaesni](https://github.com/amiralis/libaesni).
 
-Specifically, to install this library. on needs to run the following commands.
+Specifically, to install libaesni. one needs to run the following commands.
 
 ```
 sudo apt-get install yasm
