@@ -37,3 +37,6 @@ sudo cp libaes_lin64.so /usr/local/lib
 sudo cp iaes*h /usr/local/include
 sudo ldconfig -v
 ```
+
+# Generating Test Data
+For the convenience of testing the code in this repo, we provide a Python script that can generate test data (a file named "sse_data_test") on the fly. To use that data, please run this script and place the generated file into the same directory as the compiled executables.
